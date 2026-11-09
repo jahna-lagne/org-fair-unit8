@@ -1,6 +1,3 @@
-GitHub Pages URL:
-https://jahna-lagne.github.io/org-fair-unit8/
-
 Deployed Web App URL:
 https://jahna-lagne.github.io/org-fair-unit8/
 
