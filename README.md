@@ -1,3 +1,12 @@
+GitHub Pages URL:
+https://jahna-lagne.github.io/org-fair-unit8/
+
+Deployed Web App URL:
+https://jahna-lagne.github.io/org-fair-unit8/
+
+GitHub repository:
+https://github.com/jahna-lagne/org-fair-unit8
+
 # org_fair
 
 A new Flutter project.
